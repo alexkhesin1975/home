@@ -1,0 +1,7 @@
+my first file in project
+<<<<<<< HEAD
+paris is a capital of france
+=======
+>>>>>>> parent of 094b0d6... capitals added
+somthing
+somthing2
