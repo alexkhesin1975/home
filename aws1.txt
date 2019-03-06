@@ -1,0 +1,1 @@
+ https://app.pluralsight.com/player?name=aws-system-admin-fundamentals-m1&mode=live&clip=5&course=aws-system-admin-fundamentals&author=elias-khnaser
