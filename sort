@@ -1,0 +1,4 @@
+notsort=(234 3145 987)
+
+IFS=$'\n' sorted=($(sort -n <<< "${notsort[*]}"))
+printf "[%s]\n" "${sorted[@]}"

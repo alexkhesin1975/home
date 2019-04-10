@@ -1,0 +1,12 @@
+num=0
+while [ $num -le 95 ]
+do
+num=$((num+5))
+echo $num
+done
+
+
+#div=$((number[9]/5))
+#echo $div
+#echo ${number[9]}
+#echo "${#number[@]}"
